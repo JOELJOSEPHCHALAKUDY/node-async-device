@@ -66,7 +66,8 @@ const sendMessage = (value) => {
             if (err) {
                 console.log(err);
             } else {
-                console.log(`Sending resonse to driver...`)
+                console.log(`Sending resonse to driver...`);
+                console.log(' ');
             }
         });
     }, 3000);
