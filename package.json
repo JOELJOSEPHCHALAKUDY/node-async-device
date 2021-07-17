@@ -1,0 +1,21 @@
+{
+  "name": "async-communication-device-simulation",
+  "version": "1.0.0",
+  "description": "A Simple nodejs app that emulate a IoT device",
+  "main": "device.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node device.js"
+  },
+  "preferGlobal": true,
+  "bin": "./device.js",
+  "author": "Joel Joseph",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mqtt": "^4.1.0"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
