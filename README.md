@@ -1,7 +1,7 @@
 # Nodejs App to emulate a IoT device
  
 
-The main purpose of this project is to emulate asynchronous serial communication of a IoT device to driver.
+The main purpose of this project is to emulate asynchronous  communication of a IoT device to driver.
 
 [Link to the Driver version of APP](https://github.com/JOELJOSEPHCHALAKUDY/node-async-driver)
 
